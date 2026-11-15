@@ -37,6 +37,7 @@ I lead [Skillseeds](https://skillseedslimited.com), where my team and I have shi
 | [qarunbook](https://github.com/Ifeanyiejindu/qarunbook) | The QA Runbook plugin for Claude Code, Cursor and Codex |
 | [claude-code-guardrails](https://github.com/Ifeanyiejindu/claude-code-guardrails) | Hooks that stop Claude Code from fanning out agents, dropping skill rules or running sessions too long |
 | [webhook-relay](https://github.com/Ifeanyiejindu/webhook-relay) | One test webhook address for Paystack, Flutterwave and Stripe, shared by every app you build (NestJS, Prisma) |
+| [expo-production-starter](https://github.com/Ifeanyiejindu/expo-production-starter) | A working React Native app to start from: Expo, expo-router, NativeWind, TanStack Query, Zustand, sockets, token refresh, with its own mock server |
 | [flutter-testflight-ship](https://github.com/Ifeanyiejindu/flutter-testflight-ship) | One command from `pubspec.yaml` to a tester's phone, with a check for each thing that once cost me a build |
 | [ifeanyi-web](https://github.com/Ifeanyiejindu/ifeanyi-web) | My personal site: Next.js 16, React 19, hand-written interactions |
 
